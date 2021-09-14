@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://github.com/Keeprawteach/Keeprawteach/blob/master/banner.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kiprotich Japheth, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
