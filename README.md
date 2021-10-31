@@ -118,8 +118,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Keeprawteach&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
  <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Keeprawteach&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keeprawteach&langs_count=8&layout=compact&theme=tokyonight"/></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Itskiprotich&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itskiprotich&langs_count=8&layout=compact&theme=tokyonight"/></td>
   </tr>   
 </table>
 <br/>  
