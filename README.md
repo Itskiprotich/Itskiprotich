@@ -115,7 +115,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Keeprawteach&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
  <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Itskiprotich&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
