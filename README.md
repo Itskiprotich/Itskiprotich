@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kiprotich Japheth, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Digital Lending Solutions](https://github.com/Keeprawteach/)  
+- 🔭 I’m currently working on [Digital Health Solutions](https://github.com/Keeprawteach/)  
   
 
 - 🌱 I’m currently learning Docker and Kubernetes  
