@@ -1,4 +1,10 @@
 ### <div align="center">I'm Kiprotich Japheth, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Itskiprotich&label=Profile%20views&color=0e75b6&style=flat" alt="Itskiprotich" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Itskiprotich" alt="Itskiprotich" /></a> </p>
+ 
+
   
 
 - 🔭 I’m currently working on [Digital Health Solutions](https://github.com/Itskiprotich/)  
