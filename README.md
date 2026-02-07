@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Itskiprotich" alt="Itskiprotich" /></a> </p>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Itskiprotich)](https://github.com/ryo-ma/github-profile-trophy)
-  
-
 - 🔭 I’m currently working on [Digital Health Solutions](https://github.com/Itskiprotich/)  
   
 
