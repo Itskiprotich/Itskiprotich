@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kiprotich Japheth, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
  
 
-<p align="left"> <a href="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"><img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" alt="Itskiprotich" /></a> </p>
+<p align="left"> <a href="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"><img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" height="80px" alt="Itskiprotich" /></a> </p>
  
 - 🔭 I’m currently working on [Digital Health Solutions](https://github.com/Itskiprotich/)  
   
