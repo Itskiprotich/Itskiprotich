@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Digital Health Solutions](https://github.com/Itskiprotich/)  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+- 🌱 I’m currently learning AI and MCPs  
   
 
 - ❓ Ask me about anything related to Mobile stack and related technologies  
